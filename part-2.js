@@ -20,7 +20,6 @@ while (i<1000) {
     }
 }
 
-
 //TODO: after you populate the array, find the average of all the values in the array
 //console.log(sum/1000);
 //var arraySum0 = 0;

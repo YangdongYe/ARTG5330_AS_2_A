@@ -32,7 +32,6 @@ function whichCityIsLarger(a,b){
 
 console.log( whichCityIsLarger(city1,city2) );
 
-
 //TODO: write a function that returns the name of the city that is older
 function whichCityIsOlder(a,b){
 	//hint: more or less the same as above, but notice something weird about the property name "year founded"?
